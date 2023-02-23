@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[https://jawdan-dev.github.io/Projects/NeuroBirds/birds.html](Neurobirds (needs fixing))
-[https://jawdan-dev.github.io/Projects/Perceptron/index.html](Basic Perceptron Exampled)
+[Neurobirds](https://jawdan-dev.github.io/Projects/NeuroBirds/birds.html)\
+[Basic Perceptron Exampled](https://jawdan-dev.github.io/Projects/Perceptron/index.html)\
