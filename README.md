@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[https://jawdan-dev.github.io/Projects/NeuroBirds/birds.html](Neurobirds (needs fixing))
+[https://jawdan-dev.github.io/Projects/Perceptron/index.html](Basic Perceptron Exampled)
