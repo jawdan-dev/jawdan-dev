@@ -1,4 +1,5 @@
 ### Hi there 👋
+I use github primarily for personal projects and I apologise for the state of the public-facing projects (as I have little intention of cleaning them up)
 
 <!--
 **jawdan-dev/jawdan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 [Neurobirds](https://jawdan-dev.github.io/Projects/NeuroBirds/birds.html)\
-[Basic Perceptron Exampled](https://jawdan-dev.github.io/Projects/Perceptron/index.html)\
+[Basic Perceptron Exampled](https://jawdan-dev.github.io/Projects/Perceptron/index.html)
