@@ -1,5 +1,15 @@
 ### Hi there 👋
-I use github primarily for personal projects and I apologise for the state of the public-facing projects (as I have little intention of cleaning them up)
+
+My primary use of GitHub if for personal projects.
+
+## About
+
+I primarily use C/C++ for my projects but some will consist of either C# or JavaScript as well.
+
+# Socials
+
+[Twitter](https://twitter.com/jawdandev)\
+[Bluesky](https://bsky.app/profile/jawdan.bsky.social)
 
 <!--
 **jawdan-dev/jawdan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +26,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Neurobirds](https://jawdan-dev.github.io/Projects/NeuroBirds/birds.html)\
-[Basic Perceptron Exampled](https://jawdan-dev.github.io/Projects/Perceptron/index.html)
+## Highlighted Projects:
+
+> NOTE: All of the newer projects are cleaned-up. However, some of the older ones are quite messy.
+
+- [Advent of Code 2023](https://github.com/jawdan-dev/AdventOfCode-2023)
+- [Neurobirds](https://jawdan-dev.github.io/Projects/NeuroBirds/birds.html)
+- [Basic Perceptron Exampled](https://jawdan-dev.github.io/Projects/Perceptron/index.html)
+
+I'm happy to answer any enquiries about my projects :)
