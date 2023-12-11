@@ -1,4 +1,4 @@
-### Hi there 👋
+## Jawdan@jawdan-dev:/github/
 
 My primary use of GitHub if for personal projects.
 
@@ -6,7 +6,7 @@ My primary use of GitHub if for personal projects.
 
 I primarily use C/C++ for my projects but some will consist of either C# or JavaScript as well.
 
-# Socials
+## Socials
 
 [Twitter](https://twitter.com/jawdandev)\
 [Bluesky](https://bsky.app/profile/jawdan.bsky.social)
