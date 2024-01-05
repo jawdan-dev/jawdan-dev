@@ -8,6 +8,7 @@ I primarily use C/C++ for my projects but some will consist of either C# or Java
 
 ## Socials
 
+[Itch.io](https://jawdandev.itch.io/)\
 [Twitter](https://twitter.com/jawdandev)\
 [Bluesky](https://bsky.app/profile/jawdan.bsky.social)
 
