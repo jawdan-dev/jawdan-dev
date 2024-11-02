@@ -4,7 +4,7 @@ My primary use of GitHub if for personal projects.
 
 ## About
 
-I primarily use C/C++ for my projects but some will consist of either C# or JavaScript as well.
+I primarily use C++ for my projects but some will consist of either C, C#, or JavaScript as well.
 
 ## Highlighted Projects:
 
