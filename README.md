@@ -1,10 +1,9 @@
 ## Jawdan@jawdan-dev:/github/
 
-My primary use of GitHub if for personal projects.
-
 ## About
 
-I primarily use C++ for my projects but some will consist of either C, C#, or JavaScript as well.
+Im sorta just using GitHub to store my personal projects. I primarily use C++ for my projects but some will consist of either C, C#, or JavaScript as well.
+
 
 ## Highlighted Projects:
 
