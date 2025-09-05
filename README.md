@@ -20,5 +20,5 @@ Im sorta just using GitHub to store my personal projects. I primarily use C++ fo
 | ---  |
 | ![Marching Cubes Table example image](https://github.com/jawdan-dev/Marching-Cubes-Table/blob/main/media/example1.png) |
 
-| [Advent of Code 2023](https://github.com/jawdan-dev/AdventOfCode-2023) |
+| [Advent of Code](https://github.com/jawdan-dev/AdventOfCode) |
 | ---  |
