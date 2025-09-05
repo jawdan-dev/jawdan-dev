@@ -9,12 +9,16 @@ Im sorta just using GitHub to store my personal projects. I primarily use C++ fo
 
 > NOTE: All of the newer projects are cleaned-up. However, some of the older ones are quite messy.
 
+| [itch.io Page!](https://jawdandev.itch.io/) |
+| ---  |
+
 | [Noisy Terrain Engine](https://github.com/jawdan-dev/NoisyTerrainEngine) |
 | ---  |
 | ![NoisyTerrainEngine example image](https://github.com/jawdan-dev/NoisyTerrainEngine/blob/main/media/ExampleImage.png) |
 
-| [Advent of Code 2023](https://github.com/jawdan-dev/AdventOfCode-2023) |
+| [Marching Cubes Table](https://github.com/jawdan-dev/Marching-Cubes-Table) |
 | ---  |
+| ![Marching Cubes Table example image](https://github.com/jawdan-dev/Marching-Cubes-Table/blob/main/media/example1.png) |
 
-| [Jester's Wing (Game Jam Entry) - UOP-GGJ-2024](https://github.com/danielday-dev/UOP-GGJ-2024) |
+| [Advent of Code 2023](https://github.com/jawdan-dev/AdventOfCode-2023) |
 | ---  |
