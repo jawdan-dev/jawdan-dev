@@ -1,4 +1,4 @@
-## Jawdan@jawdan-dev:/github/
+# Jawdan (Jawdan.dev)
 
 ## About
 
