@@ -9,7 +9,7 @@ Heres a list of some of my more recent activity!
 
 ## Contact
 
-I'm happy to chat about anything! You can contact me via email [contact@jawdan.dev](mailto:contact@jawdan.dev) or any other way you might find! 
+I'm happy to chat about anything! You can contact me via email to [contact@jawdan.dev](mailto:contact@jawdan.dev) or any other way you might find! 
 
 ## Highlighted Thingies
 
