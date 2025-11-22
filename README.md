@@ -13,7 +13,7 @@ I'm happy to chat about anything! You can contact me via email [contact@jawdan.d
 
 ## Highlighted Thingies
 
-| [itch.io Page!](https://jawdandev.itch.io/) |
+| [itch.io](https://jawdandev.itch.io/) |
 | ---  |
 | [![itch profile banner](https://img.itch.zone/aW1nLzE1NzI1MDI0LnBuZw==/original/IcJhIK.png)](https://jawdandev.itch.io/) |
 
