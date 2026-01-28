@@ -4,6 +4,7 @@
 Heyo, I'm Jordan! I'm a gamedev who's into making small and kinda innovative games and software!
 
 Heres a list of some of my more recent activity!
+- Starting [Cucumber Maki](https://cucumbermaki.com)!
 - Tranzfuser 2025
 - MSc Game Development @ MMU 24/25
 
